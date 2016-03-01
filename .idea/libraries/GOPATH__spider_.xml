@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;spider&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../golang.org/x/net/http2/testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/axgle/mahonia/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/go-sql-driver/mysql/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/andybalholm/cascadia/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/Tang-RoseChild/mahonia/.git" />
+      <root url="file://$PROJECT_DIR$/../golang.org/x/net/html/testdata" />
+      <root url="file://$PROJECT_DIR$/../golang.org/x/text/encoding/testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/astaxie/beego/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/djimenez/iconv-go/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/PuerkitoBio/goquery/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../github.com/bitly/go-simplejson/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/hu17889/go_spider/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/astaxie/beego/utils/testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/PuerkitoBio/goquery/testdata" />
+      <root url="file://$PROJECT_DIR$/../golang.org/x/net/html/charset/testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/qiniu/iconv/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/gpmgo/gopm/.git" />
+    </excluded>
+  </library>
+</component>
