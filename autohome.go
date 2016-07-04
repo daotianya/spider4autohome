@@ -6,9 +6,15 @@ import (
 	"github.com/hu17889/go_spider/core/spider"
 	"spider/conf"
 	"spider/process"
+	"github.com/spider4autohome/dao"
 )
 
 func main() {
+	
+	
+	//第一次启动需要检查数据库是否同步到本地
+	
+	dao.Init()
 
 	spider := spider.NewSpider(process.New("AutohomeSpider"), "autohome")
 	spider.SetSleepTime("rand", 1000, 3000)
